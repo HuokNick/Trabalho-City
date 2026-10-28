@@ -3,13 +3,13 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using ProjetoLogin.Models;
-using ProjetoLogin.Repositories;
+using Trab_City.Models;
+using Trab_City.Repositories;
 using System.Security.Claims;
 using Trab_City.Models;
 using Trab_City.Repositories;
 
-namespace ProjetoLogin.Controllers
+namespace Trab_City.Controllers
 {
     public class ContaController : Controller
     {

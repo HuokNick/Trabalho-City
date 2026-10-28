@@ -2,7 +2,6 @@
 using MySql.Data.MySqlClient;
 using System.Data;
 using Trab_City.Models;
-using Trab_City.Repositories;
 
 namespace Trab_City.Repositories
 {

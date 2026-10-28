@@ -6,8 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Trab_City.Models;
 using Trab_City.Repositories;
 using System.Security.Claims;
-using Trab_City.Models;
-using Trab_City.Repositories;
+
 
 namespace Trab_City.Controllers
 {

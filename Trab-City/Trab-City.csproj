@@ -7,4 +7,8 @@
     <RootNamespace>Trab_City</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="26.10.0" />
+  </ItemGroup>
+
 </Project>
